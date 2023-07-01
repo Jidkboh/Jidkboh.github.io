@@ -1307,7 +1307,7 @@ img:hover {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #1a2540;
+  background: #ff6014;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2488,7 +2488,7 @@ embed {
   margin: 0 auto 25px auto;
 }
 body {
-  background: url("/images/BA.gif");
+  background: url("/images/city.png");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;

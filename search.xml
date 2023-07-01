@@ -13,18 +13,6 @@
       </tags>
   </entry>
   <entry>
-    <title>level-up</title>
-    <url>/2023/06/27/Level-up/</url>
-    <content><![CDATA[<p>这几天忙于做作业（虽说肯定夹带私货了），没有花时间在这个上面，其实比较可惜。但是，谁有能想到我原来不能有Blog呢。。。<span id="more"></span>之后这个Blog肯定会授权给别人，在本地的期间还是嗨嗨维护一下吧，肯定在之后我也会继续维护的，但是这毕竟不是我的了，哎。在这几天，我熟悉了CSS和HTML之间的联系，这个作业本来只要求做一个PPT的，我硬是要写一个网站，也就是逼了自己一把。生活本应如此，学习和成长本来就是会要付出代价的，只是我觉得这个代价很甜蜜，我愿意如此。成长，得快过时间才行！<br><img data-src="/img/reading_gil.jpg"></p>
-]]></content>
-      <categories>
-        <category>技能</category>
-      </categories>
-      <tags>
-        <tag>记录</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Step</title>
     <url>/2023/06/24/Step/</url>
     <content><![CDATA[<p>——————————————————————真是服了。。—————————————————————<span id="more"></span>坐这里快满24小时了，这几天都没怎么睡结果就这。。但是就目前而言其实进度也算快的吧，添加了看板娘和鼠标特效，壁纸也进行优化了，但是这个侧边栏还没有修改，包括比较重要的搜索功能，实时编辑功能，看板娘的语音功能都没有搞好，再来就是布局方面的问题。但是这些基本上都得在本人学习CSS之后才能缓过来。这么说来，JS和HTML就也是不得不学的了。真的真的，脑子里其实有很多想法，但是能力确实很拉跨。（毕竟不可能用短短几个月就实现整个网站开发啊）<br><img data-src="/img/station.jpg"></p>
@@ -34,6 +22,18 @@
       </categories>
       <tags>
         <tag>测试</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>level-up</title>
+    <url>/2023/06/27/Level-up/</url>
+    <content><![CDATA[<p>这几天忙于做作业（虽说肯定夹带私货了），没有花时间在这个上面，其实比较可惜。但是，谁有能想到我原来不能有Blog呢。。。<span id="more"></span>之后这个Blog肯定会授权给别人，在本地的期间还是嗨嗨维护一下吧，肯定在之后我也会继续维护的，但是这毕竟不是我的了，哎。在这几天，我熟悉了CSS和HTML之间的联系，这个作业本来只要求做一个PPT的，我硬是要写一个网站，也就是逼了自己一把。生活本应如此，学习和成长本来就是会要付出代价的，只是我觉得这个代价很甜蜜，我愿意如此。成长，得快过时间才行！<br><img data-src="/img/reading_gil.jpg"></p>
+]]></content>
+      <categories>
+        <category>技能</category>
+      </categories>
+      <tags>
+        <tag>记录</tag>
       </tags>
   </entry>
 </search>

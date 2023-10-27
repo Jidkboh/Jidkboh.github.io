@@ -1,19 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>又崩溃了！</title>
-    <url>/2023/10/11/20231011/</url>
-    <content><![CDATA[<p>我去，昨天晚上网站又崩了，好像网站大更新就会崩一次，我还说怎么学了HTML,CSS,SQL网站跑起来还是有问题，这么大一个PHP都没有学，再过一段时间就估计可以出来一个纯自主设计的网站了，而不是现在这样依赖于前人的技术。当然，我的主线还是学习STM，这些花花肠子都是可以自己学习的，硬技术还是得靠老师，时间也不多了啊。</p>
-]]></content>
-      <categories>
-        <category>技能</category>
-      </categories>
-      <tags>
-        <tag>日志</tag>
-        <tag>HEXO</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>国庆遇上中秋</title>
     <url>/2023/09/29/20030929/</url>
     <content><![CDATA[<p>——————————-终于又一次闲下来了啊，新学期开始，总得找点乐子才行—————————————————–<span id="more"></span>真的无聊啊<br><img data-src="/img/steve.jpg"></p>
@@ -40,18 +27,6 @@
       </tags>
   </entry>
   <entry>
-    <title>level-up</title>
-    <url>/2023/06/27/Level-up/</url>
-    <content><![CDATA[<p>这几天忙于做作业（虽说肯定夹带私货了），没有花时间在这个上面，其实比较可惜。但是，谁有能想到我原来不能有Blog呢。。。<span id="more"></span>之后这个Blog肯定会授权给别人，在本地的期间还是嗨嗨维护一下吧，肯定在之后我也会继续维护的，但是这毕竟不是我的了，哎。在这几天，我熟悉了CSS和HTML之间的联系，这个作业本来只要求做一个PPT的，我硬是要写一个网站，也就是逼了自己一把。生活本应如此，学习和成长本来就是会要付出代价的，只是我觉得这个代价很甜蜜，我愿意如此。成长，得快过时间才行！<br><img data-src="/img/reading_gil.jpg"></p>
-]]></content>
-      <categories>
-        <category>技能</category>
-      </categories>
-      <tags>
-        <tag>记录</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Start</title>
     <url>/2023/06/23/Start/</url>
     <content><![CDATA[<p>基于hexo设计的个人博客真的十分强大，非常有望成为我的个人网站，但是由于这个的大佬实在太关心新手了，我还是决定在搭建完这个网站后，也就是对于HTML和CSS有一定了解后进行个人创作.<span id="more"></span>真点开看了？太难得了<br><img data-src="/img/sky.jpg"></p>
@@ -61,6 +36,31 @@
       </categories>
       <tags>
         <tag>测试</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>又崩溃了！</title>
+    <url>/2023/10/11/20231011/</url>
+    <content><![CDATA[<p>我去，昨天晚上网站又崩了，好像网站大更新就会崩一次，我还说怎么学了HTML,CSS,SQL网站跑起来还是有问题，这么大一个PHP都没有学，再过一段时间就估计可以出来一个纯自主设计的网站了，而不是现在这样依赖于前人的技术。当然，我的主线还是学习STM，这些花花肠子都是可以自己学习的，硬技术还是得靠老师，时间也不多了啊。</p>
+]]></content>
+      <categories>
+        <category>技能</category>
+      </categories>
+      <tags>
+        <tag>日志</tag>
+        <tag>HEXO</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>level-up</title>
+    <url>/2023/06/27/Level-up/</url>
+    <content><![CDATA[<p>这几天忙于做作业（虽说肯定夹带私货了），没有花时间在这个上面，其实比较可惜。但是，谁有能想到我原来不能有Blog呢。。。<span id="more"></span>之后这个Blog肯定会授权给别人，在本地的期间还是嗨嗨维护一下吧，肯定在之后我也会继续维护的，但是这毕竟不是我的了，哎。在这几天，我熟悉了CSS和HTML之间的联系，这个作业本来只要求做一个PPT的，我硬是要写一个网站，也就是逼了自己一把。生活本应如此，学习和成长本来就是会要付出代价的，只是我觉得这个代价很甜蜜，我愿意如此。成长，得快过时间才行！<br><img data-src="/img/reading_gil.jpg"></p>
+]]></content>
+      <categories>
+        <category>技能</category>
+      </categories>
+      <tags>
+        <tag>记录</tag>
       </tags>
   </entry>
   <entry>

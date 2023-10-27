@@ -62,4 +62,29 @@
         <tag>测试</tag>
       </tags>
   </entry>
+  <entry>
+    <title>又崩溃了！</title>
+    <url>/2023/10/11/20231011/</url>
+    <content><![CDATA[<p>我去，昨天晚上网站又崩了，好像网站大更新就会崩一次，我还说怎么学了HTML,CSS,SQL网站跑起来还是有问题，这么大一个PHP都没有学，再过一段时间就估计可以出来一个纯自主设计的网站了，而不是现在这样依赖于前人的技术。当然，我的主线还是学习STM，这些花花肠子都是可以自己学习的，硬技术还是得靠老师，时间也不多了啊。</p>
+]]></content>
+      <categories>
+        <category>技能</category>
+      </categories>
+      <tags>
+        <tag>日志</tag>
+        <tag>HEXO</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>酣战，然后知心</title>
+    <url>/2023/10/27/post/</url>
+    <content><![CDATA[<p>给闲下来的自己找了一些活，在工作中获得满足本身就是一件美事<span id="more"></span>真的无聊啊</p>
+]]></content>
+      <categories>
+        <category>随想</category>
+      </categories>
+      <tags>
+        <tag>记录</tag>
+      </tags>
+  </entry>
 </search>
